@@ -233,6 +233,8 @@ border-collapse:collapse;
 width:10%;
 font-size:12px;
 background-color:#FFFFFF;
+border-spacing:0px;
 margin-left: auto;
 margin-right: auto;
+text-align: center;
 }
